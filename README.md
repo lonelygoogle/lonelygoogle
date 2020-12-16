@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**lonelygoogle/lonelygoogle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    I am a front-end engineer.
 
-Here are some ideas to get you started:
-     I am a front-end engineer.
+    [博客地址(掘金首页)](https://juejin.cn/user/993614678995736)
